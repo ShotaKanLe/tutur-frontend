@@ -12,8 +12,8 @@ const Home = () =>{
 
                 {/* Main Content */}
                 <div className="flex-1 max-w-3xl">
-                <ProfileHeader />
-                <Statistics />
+                    <ProfileHeader />
+                    <Statistics />
                 </div>
 
                 {/* Right Panel */}
