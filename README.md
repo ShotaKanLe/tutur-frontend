@@ -12,3 +12,14 @@ Fitur Opsional
 2. Latihan Membaca
 3. Halaman Join Community (Bergabung Sebagai Native Speaker)
 4. Halaman Sertifikasi
+
+Pages
+- Register
+- Login
+- Halaman Utama Latihan 
+    List of Ordered component : 
+    (Pilih bahasa)
+    (Daftar Latihan Berdasarkan Tingkatan [Beginner, intermediate, Advanced]) 
+    (Halaman Latihan Soal dan Jawaban Teks, Latihan Cerita Rakyat, Latihan Menebak dan Mencocokkan Kata, Latihan Mendengar)
+- Profile
+- Subscription

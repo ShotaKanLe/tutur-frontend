@@ -6,7 +6,7 @@ export default function Sidebar() {
         { icon: '🔤', href: "",label: 'LETTERS' },
         { icon: '⚽', href: "",label: 'PRACTICE' },
         { icon: '🏆', href: "",label: 'LEADERBOARDS' },
-        { icon: '📜', href: "",label: 'QUESTS' },
+        { icon: '📜', href: "subscriptions",label: 'SUBSCRIPTION' },
         { icon: '👩', href: "profile", label: 'PROFILE' },
         { icon: '🛍️', href: "login", label: 'LOGOUT' },
     ];
